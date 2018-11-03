@@ -1,0 +1,7 @@
+baseURL = "http://rideauosgoode.ca/"
+languageCode = "en-us"
+title = "Rideau Osgoode Martial Arts"
+theme = "ananke"
+
+[params]
+  favicon = "/images/bullet.png"
