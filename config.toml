@@ -5,3 +5,4 @@ theme = "ananke"
 
 [params]
   favicon = "/images/bullet.png"
+  custom_css = ["css/custom.css"]

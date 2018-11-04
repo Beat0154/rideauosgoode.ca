@@ -9,7 +9,15 @@ featured_image: /images/rideauosgoode.png
 
 ## Chief Instructor
 
-* **Wayne Beaton**, Rokudan 6th degree black belt
+Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his martial arts career originally studying Wado Ryu (now Wado Kai) with Shihan Greg Reid in Victoria, British Columbia in 1982. Wayne moved to Ottawa in 1986 where studied under Sensei Claude Villeneuve and Sensei Raymond Deschamps, before connecting with Sensei Albert Ethier and the Rideau Osgoode Karate Club where he learned and trained for more than two decades before renaming the club to Rideau Osgoode Martial Arts and taking over the role of chief instructor. 
+
+![Shihan Wayne Beaton with Shihan Dan Bailey](/images/WayneAndDan.JPG#right)
+
+Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and has recently begun serious training in Okinawa Kobudo Doushi Rensei-kai®.
+
+Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Baily since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Renshi Laura Sywyk, and many others.
+
+Wayne believes that the Dojo should be place of serious learning and training, but should also be fun, friendly, and inviting.
 
 ## Assistant Chief Instructor
 
