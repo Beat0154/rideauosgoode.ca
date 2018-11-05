@@ -15,4 +15,20 @@ While Goju Ryu is the primary style of Karate taught at the Rideau Osgoode Marti
 
 ## Katas
 
-We teach Katas from three different styles of Karate: Goju Ryu, Shotokan and Chito Ryu.
+We teach Katas from three different styles of Karate: Goju Ryu, Shotokan and Chito Ryu. Grading requirements for each rank are summarized below.
+
+Rank         | Goju Ryu Kata     | Shotokan Kata | Chito Ryu Kata  | Other
+-------------|-------------------|---------------|-----------------|---------
+White Belt   | Geki Sai Dai Ichi | Heian Shodan  | Taikyoku Shodan | Te Waza
+Yellow Belt  | Geki Sai Dai Ni   | Heian Nidan   | Shi Ho Hai      |  
+Orange Belt  | Sanchin           | Heian Sandan  | Ro Hai Sho      |  
+Green Belt   | Saifa             | Heian Yondan  | Ro Hai Dai      |  
+Blue Belt    | Seiyunchin        | Heian Godan   |                 |  
+Brown Belt   | Sanchin Ni        | Bassai Dai    |                 |  
+Shodan       | Shisochin         |               |                 |  
+Nidan        | Sanseru
+Sandan       | Seipai
+Yondan       | Kururunfa
+Godan        | Sesan
+Rokudan      | Suparinpei
+Shichidan    | Tensho

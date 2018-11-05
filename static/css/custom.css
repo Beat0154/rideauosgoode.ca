@@ -11,3 +11,45 @@ img[src*='#center'] {
 	display: block;
 	margin: auto;
 }
+
+th {
+	text-align: left;
+	white-space: nowrap
+}
+
+td {  
+	white-space: nowrap
+}
+
+table { 
+	border: none; 
+	border-collapse: collapse; 
+}
+
+table thead th { 
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	border-left: 1px solid #000; 
+}
+
+table thead th:first-child {
+	border-left: none; 
+}
+
+table tbody td { 
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	border-left: 1px solid #000; 
+}
+
+table tbody td:first-child {
+	border-left: none; 
+}
+
+tr:nth-child(even) {
+	background-color: #ffffff
+}
+
+table thead tr {
+	background-color: #ffffff
+}

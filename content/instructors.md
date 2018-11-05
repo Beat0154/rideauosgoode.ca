@@ -27,9 +27,12 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 
 * **Dan Baily**, Rokudan 6th degree black belt
 
-## [Karate](/karate) Instructors 
+## [Karate](/karate)
 
+### Karate Head Instructor
 * **Ken Parry**, Yondan 4th degree black belt
+
+### Karate Instructors
 * **Stephen McClellan**, Sandan 3rd degree black belt
 * **Lesley Cushing**, Nidan 2nd degree black belt
 * **Devon Valentine**, Sandan 3rd degree black belt
@@ -37,9 +40,12 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 * **Christine Stigter**, Nidan 2nd degree black belt
 * **Katie Stigter**, Shodan 2nd degree black belt
 
-## [Jiu Jitsu](/jiujitsu) Instructors
+## [JiuJitsu](/jiujitsu)
 
+### JiuJitsu Heads Instructor
 * **Gary Bazil**, Yondan 4th degree black belt
+
+### JiuJitsu Instructors
 * **Rick Schwartzburg**, Sandan 3rd degree black belt
 * **Isaac Schwartzburg**, Sandan 3rd degree black belt
 * **Lou Kabesh**, Sandan 3rd degree black belt
@@ -47,8 +53,12 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 
 ## [Kobudo](/kobudo) Instructors
 
-* **Stephen McClellan**, Nidan 2nd degree black belt
-* **Cynthia Kitson**, Nidan 2nd degree black belt
-* **Ken Parry**, Nidan 2nd degree black belt
+### Kobudo Head Instructor
+* **Stephen McClellan**, Sandan 3rd degree black belt
+
+### Kobudo Instructors
+* **Cynthia Kitson**, Sandan 3rd degree black belt
+* **Ken Parry**, Sandan 3rd degree black belt
+* **Lesley Cushing**, Sandan 3rd degree black belt
 * **Christine Stigter**, Shodan 1st degree black belt
 * **Katie Stigter**, Shodan 1st degree black belt
