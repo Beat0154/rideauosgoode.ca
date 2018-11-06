@@ -19,9 +19,9 @@ We teach Katas from three different styles of Karate: Goju Ryu, Shotokan and Chi
 
 Rank         | Goju Ryu Kata     | Shotokan Kata | Chito Ryu Kata  | Other
 -------------|-------------------|---------------|-----------------|---------
-White Belt   | Geki Sai Dai Ichi | Heian Shodan  | Taikyoku Shodan | Te Waza
-Yellow Belt  | Geki Sai Dai Ni   | Heian Nidan   | Shi Ho Hai      |  
-Orange Belt  | Sanchin           | Heian Sandan  | Ro Hai Sho      |  
+White Belt   | [Geki Sai Dai Ichi](/kata/geki-sai-dai-ichi) | Heian Shodan  | Taikyoku Shodan | Te Waza
+Yellow Belt  | [Geki Sai Dai Ni](/kata/geki-sai-dai-ni)   | Heian Nidan   | Shi Ho Hai      |  
+Orange Belt  | [Sanchin](/kata/sanchin)           | Heian Sandan  | Ro Hai Sho      |  
 Green Belt   | Saifa             | Heian Yondan  | Ro Hai Dai      |  
 Blue Belt    | Seiyunchin        | Heian Godan   |                 |  
 Brown Belt   | Sanchin Ni        | Bassai Dai    |                 |  

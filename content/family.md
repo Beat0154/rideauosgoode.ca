@@ -1,5 +1,5 @@
 ---
-title: Children's Programme
+title: Families
 menu: 
   main:  {
     weight: 70

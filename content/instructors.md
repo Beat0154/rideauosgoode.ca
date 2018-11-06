@@ -15,7 +15,7 @@ Shihan **Wayne Beaton**, Rokudan 6th degree black belt (EMAC), started his mar
 
 Wayne has studied Wado Ryu Karate, Shotokan Karate, Chito Ryu Karate, but has focused on Jundokan Goju Ryu Karate. He holds a Shodan (first degree black belt) rank in Jiu Jitsu and has recently begun serious training in Okinawa Kobudo Doushi Rensei-kai®.
 
-Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Baily since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Renshi Laura Sywyk, and many others.
+Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and Shihan Dan Bailey since 1991. Wayne has trained and studied with Sensei Masami Tsuruoka, Sensei Ron Yamanaka, Sensei Tetsunosuke Yasuda, Sensei Tsuneo Kinjo, Sensei Tetsu Gima, Sensei Masaji Taira, Sensei Jean Frenette, Shihan Jack Donovan, Renshi Laura Sywyk, and many others.
 
 Wayne believes that the Dojo should be place of serious learning and training, but should also be fun, friendly, and inviting.
 
