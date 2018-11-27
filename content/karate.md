@@ -19,16 +19,16 @@ We teach Katas from three different styles of Karate: Goju Ryu, Shotokan and Chi
 
 Rank         | Goju Ryu Kata     | Shotokan Kata | Chito Ryu Kata  | Other
 -------------|-------------------|---------------|-----------------|---------
-White Belt   | [Geki Sai Dai Ichi](/kata/geki-sai-dai-ichi) | Heian Shodan  | Taikyoku Shodan | Te Waza
-Yellow Belt  | [Geki Sai Dai Ni](/kata/geki-sai-dai-ni)   | Heian Nidan   | Shi Ho Hai      |  
-Orange Belt  | [Sanchin](/kata/sanchin)           | Heian Sandan  | Ro Hai Sho      |  
-Green Belt   | Saifa             | Heian Yondan  | Ro Hai Dai      |  
-Blue Belt    | Seiyunchin        | Heian Godan   |                 |  
-Brown Belt   | Sanchin Ni        | Bassai Dai    |                 |  
-Shodan       | Shisochin         |               |                 |  
-Nidan        | Sanseru
-Sandan       | Seipai
-Yondan       | Kururunfa
-Godan        | Sesan
-Rokudan      | Suparinpei
-Shichidan    | Tensho
+Yellow Belt  | [Geki Sai Dai Ichi](/kata/geki-sai-dai-ichi) | Heian Shodan  | Taikyoku Shodan | Te Waza
+Orange Belt  | [Geki Sai Dai Ni](/kata/geki-sai-dai-ni)   | Heian Nidan   | Shi Ho Hai      | Sanbon Kumite
+Green Belt   | [Sanchin](/kata/sanchin)           | Heian Sandan  | Ro Hai Sho      | Rensoku Kumite Geki Sai Dai Ichi
+Blue Belt    | Saifa             | Heian Yondan  | Ro Hai Dai      | Rensoku Kumite Geki Sai Dai Ni 
+Brown Belt   | Seiyunchin        | Heian Godan   |                 | Rensoku Kumite Saifa 
+Shodan       | Sanchin Ni        | Bassai Dai    |                 | Oiyo Kumite Seiyunchin
+Nidan        | Shisochin         |               |                 |  
+Sandan       | Sanseru
+Yondan       | Seipai
+Godan        | Kururunfa
+Rokudan      | Sesan
+Shichidan    | Suparinpei
+Hachidan     | Tensho

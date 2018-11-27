@@ -1,8 +1,9 @@
-baseURL = "http://rideauosgoode.ca/"
+baseURL = "./"
 languageCode = "en-us"
 title = "Rideau Osgoode Martial Arts"
 theme = "ananke"
+relativeURLs = true
 
 [params]
-  favicon = "/images/bullet.png"
+  favicon = "images/bullet.png"
   custom_css = ["css/custom.css"]

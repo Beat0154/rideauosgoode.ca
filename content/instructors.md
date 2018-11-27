@@ -19,13 +19,13 @@ Wayne has been a direct student of Sensei Albert Either, Kyoshi Mike Sywyk and S
 
 Wayne believes that the Dojo should be place of serious learning and training, but should also be fun, friendly, and inviting.
 
-## Assistant Chief Instructor
-
-* **Lou Kabesh**, Yondan 4th degree black belt
-
 ## Senior Black Belt
 
 * **Dan Baily**, Rokudan 6th degree black belt
+
+## Assistant Chief Instructor
+
+* **Lou Kabesh**, Yondan 4th degree black belt
 
 ## [Karate](/karate)
 
@@ -33,11 +33,12 @@ Wayne believes that the Dojo should be place of serious learning and training, b
 * **Ken Parry**, Yondan 4th degree black belt
 
 ### Karate Instructors
+* **Cynthia Kitson**, Yondan 4th degree black belt
 * **Stephen McClellan**, Sandan 3rd degree black belt
-* **Lesley Cushing**, Nidan 2nd degree black belt
 * **Devon Valentine**, Sandan 3rd degree black belt
+* **Christine Stigter**, Sandan 3rd degree black belt
+* **Lesley Cushing**, Nidan 2nd degree black belt
 * **Jamie Munro**, Nidan 2nd degree black belt
-* **Christine Stigter**, Nidan 2nd degree black belt
 * **Katie Stigter**, Shodan 2nd degree black belt
 
 ## [JiuJitsu](/jiujitsu)

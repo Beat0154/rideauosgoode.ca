@@ -7,7 +7,7 @@ menu:
 
 ---
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="mailto://example.com"  >}}
+5677 Osgoode Main St, Osgoode  
+http://www.rideauosgoode.ca  
+[info@rideauosgoode.ca](mailto:info@rideauosgoode.ca)  
+(613) 826-0417
